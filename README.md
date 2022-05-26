@@ -15,11 +15,8 @@ Testy napisane z u¿yciem RobotFramework oraz dedykowanej biblioteki Selenium. Pr
 
 ```Robotframework-seleniumlibrary - Version 6.0.0```
 
-# Instalacja
+# Instalacja i uruchomienie
 
-```pip install -r requirements.txt```
-
-# Uruchomienie
 Aby skonfigurowaæ wirtualne œrodowisko nale¿y u¿yæ komend:
 
 ```sudo apt install git```
@@ -41,4 +38,8 @@ Aby skonfigurowaæ wirtualne œrodowisko nale¿y u¿yæ komend:
 ```robot robotWSB```
 
 Pierwsze komendy oodpowiadaj¹ za instalacjê git i python, prawdopodobnie zbêdne.
+
+aby wy³¹czyæ srodowisko wirtualne:
+
+```source env/bin/deactivate```
  
