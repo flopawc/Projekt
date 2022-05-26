@@ -2,7 +2,7 @@
 
 Projekt zaliczeniowy - studia podyplomowe, kierunek "Tester Oprogramowania".
 
-Testy napisane z u¿yciem RobotFramework oraz dedykowanej biblioteki Selenium. Projekt napisany dla serwisu e-commerce - automationpractice.com
+Testy napisane z uÅ¼yciem RobotFramework oraz dedykowanej biblioteki Selenium. Projekt napisany dla serwisu e-commerce - automationpractice.com
 
 # Wersja oprogramowania
 ```Chrome - Version  01.0.4951.67```
@@ -17,7 +17,7 @@ Testy napisane z u¿yciem RobotFramework oraz dedykowanej biblioteki Selenium. Pr
 
 # Instalacja i uruchomienie
 
-Aby skonfigurowaæ wirtualne œrodowisko nale¿y u¿yæ komend:
+Aby skonfigurowaÄ‡ wirtualne Å›rodowisko naleÅ¼y uÅ¼yÄ‡ komend:
 
 ```sudo apt install git```
 
@@ -37,9 +37,12 @@ Aby skonfigurowaæ wirtualne œrodowisko nale¿y u¿yæ komend:
 
 ```robot robotWSB```
 
-Pierwsze komendy oodpowiadaj¹ za instalacjê git i python, prawdopodobnie zbêdne.
+Pierwsze komendy oodpowiadajÄ… za instalacjÄ™ git i python, prawdopodobnie zbÄ™dne.
 
-aby wy³¹czyæ srodowisko wirtualne:
+aby wyÅ‚Ä…czyÄ‡ srodowisko wirtualne:
 
 ```source env/bin/deactivate```
+
+
+Do poprawnego dziaÅ‚ania testu konieczna jest instalacja chromedriver/geckodriver w razie potrzeby podanie Å›cieÅ¼ki do sterownika.
  
