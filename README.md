@@ -12,11 +12,9 @@ Testy napisane z u¿yciem RobotFramework oraz dedykowanej biblioteki Selenium. Pr
 ```Robotframework-seleniumlibrary - Version 6.0.0```
 
 # Instalacja
-``` bash
-pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 # Uruchomienie
-
 Aby skonfigurowaæ wirtualne œrodowisko nale¿y u¿yæ komend:
 ```sudo apt install git```
 ```sudo apt install python3```
