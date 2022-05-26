@@ -16,7 +16,17 @@ Testy napisane z u¿yciem RobotFramework oraz dedykowanej biblioteki Selenium. Pr
 pip install -r requirements.txt```
 
 # Uruchomienie
-Aby uruchomiæ wszytskie testy u¿yj komendy ```robot robotWSB```
 
+Aby skonfigurowaæ wirtualne œrodowisko nale¿y u¿yæ komend:
+```sudo apt install git```
+```sudo apt install python3```
+```sudo apt install python3.8-venv```
+```git init```
+```git pull https://github.com/flopawc/Projekt```
+```python3 -m venv env```
+```source env/bin/activate```
+```pip install -r requirements```
+```robot robotWSB```
 
+Pierwsze komendy oodpowiadaj¹ za instalacjê git i python, prawdopodobnie zbêdne.
  
